@@ -1,10 +1,11 @@
 Esse projeto foi criado em React e typescript utilizando o gerador de dependência yarn.
 Pra poder rodar esse projeto localmente em sua máquina é necessários o seguinte passos:
 
-Primeiro instalar o servidor NodeJs em sua maquina  
+Primeiro instalar o servidor NodeJs em sua maquina:  
 Pra instalar no Windows é só entrar no site 
 https://nodejs.org/en/download/
-E instalar a versão LTS em sua máquina ou a versão 14.15.5 que foi desenvolvida esse projeto.
+
+instalar a versão LTS em sua máquina ou a versão 14.15.5 que foi desenvolvida esse projeto.
 
 Para Linux utilizar o seguinte comando no terminal
 pacman -S nodejs npm
