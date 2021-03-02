@@ -43,3 +43,6 @@ para poder rodar a aplicação só digitar o seguinte comando na pasta do projet
 ```
 yarn dev 
 ```
+
+
+![image](https://user-images.githubusercontent.com/53497302/109681311-1a193780-7b5c-11eb-84ac-e62f243ebc0e.png)
